@@ -1,0 +1,21 @@
+1. Write a shell program to find and display largest and smallest of three numbers.
+
+2. Write a shell program to check the number n is divisible by m or not. Where m and n are supplied as command line argument or read from key board interactively.
+
+3. Write a shell program to check the year is the leap year or not. Display appropriate
+message.
+
+4. Write a shell program that takes two file names, checks the permissions for these files are identical and if they are identical, output the common permissions; otherwise output each file name followed by its permission.
+
+5. Write a shell program to display the length of the name and also display first three characters and last three characters in the name in two different lines if the name contains at least 6 characters.
+
+6. Write a shell program to implement simple calculator operations.
+
+7. Write a shell script that accepts filename as arguments. For every filename, it should first check whether it exists in the current directory and then convert its name to uppercase, but only if a file with new name doesn’t exist.
+
+8. Write shell script to determine the length of the string, extract a substring and locate a
+position of a character in a string.
+
+9. Write a PERL program that prompts user to input the string and a number, and prints the string that many times, with each string on separate line.
+
+10. PERL program to find the sum of digits of an unsigned number passed through argument.
